@@ -1,0 +1,163 @@
+{
+  "name": "Charles Chery",
+  "contact": {
+    "phone": "919-526-2544",
+    "email": "
+charlesch@protonmail.com
+",
+    "address": "USA"
+  },
+  "summary": "A seasoned and versatile Software Test Engineer and Test Lead with over 10 years of experience ensuring the quality of products in the telecommunications, medical device, and human resources industries. Knowledgeable in designing and executing comprehensive test plans for a wide range of systems, from embedded software to complex web applications. Adept at leading teams, mentoring junior engineers, and driving process improvements to achieve high-quality results.",
+  "education": [
+    {
+      "institution": "Lesley University / Urban Teachers – Baltimore Residency",
+      "location": "Cambridge, MA",
+      "date": "11/2015",
+      "details": "7 credits completed towards Master of Education Degree (M.Ed.) in Elementary Education and Special Education"
+    },
+    {
+      "institution": "Stevens Institute of Technology",
+      "location": "Hoboken, NC",
+      "date": "05/1995",
+      "degree": "Master of Science",
+      "major": "Computer Science"
+    },
+    {
+      "institution": "Stevens Institute of Technology",
+      "location": "Hoboken, NC",
+      "date": "05/1992",
+      "degree": "Bachelor of Science",
+      "major": "Computer Science"
+    }
+  ],
+  "skills": {
+    "testing": [
+      "Test Automation",
+      "Agile/Scrum Methodologies",
+      "Performance Testing",
+      "Functional Testing",
+      "End to End Testing",
+      "Regression Testing",
+      "Test Case Development",
+      "Mobile App Testing"
+    ],
+    "technical": [
+      "Embedded Systems",
+      "Mobile and Networked Applications",
+      "C/C++",
+      "JavaScript",
+      "Python",
+      "Selenium",
+      "Git",
+      "Flutter",
+      "Dart",
+      "React",
+      "Go",
+      "Node.js",
+      "JSON",
+      "Jira",
+      "HP ALM",
+      "TestRail",
+      "WinRunner",
+      "LoadRunner",
+      "SiteScope",
+      "MS Project",
+      "MS Excel",
+      "MS Word",
+      "MS PowerPoint",
+      "MS Access"
+    ],
+    "leadership": [
+      "Team Management",
+      "Mentoring",
+      "Process Improvement",
+      "Cross-functional Collaboration"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Test Lead / Design Engineer",
+      "company": "Hillrom",
+      "industry": "Medical Device Industry",
+      "duration": "4 years",
+      "responsibilities": [
+        "Coordinated the development of test scripts that ensured product quality was delivered on time and within budget.",
+        "Collaborated with fellow engineers to create a comprehensive processes and procedures document.",
+        "Mentored new team members and shared testing tools and methodologies that enhanced productivity."
+      ]
+    },
+    {
+      "title": "Test Lead",
+      "company": "AHCS",
+      "industry": "Human Resource Applications",
+      "duration": "2 years",
+      "responsibilities": [
+        "Led a team of 3-5 test engineers on million-dollar projects, ensuring all quality standards were met.",
+        "Introduced innovative testing tools and processes, contributing to a 6-month zero major issues record.",
+        "Facilitated timely launch of a business intelligence application by ensuring rapid loading and continuous operation."
+      ]
+    },
+    {
+      "title": "Software Tester",
+      "company": "AT&T",
+      "industry": "Telecommunications",
+      "duration": "5 years",
+      "responsibilities": [
+        "Maintained the efficient operation of software and hardware products.",
+        "Developed training programs to onboard new test engineers.",
+        "Coordinated quality validation of security and firewall systems."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Inside Sales Training",
+      "date": "11/2023"
+    },
+    {
+      "title": "Customer Service Training",
+      "date": "04/2023"
+    },
+    {
+      "title": "Full-Stack Development and QA (Python, Django, JavaScript, etc.)",
+      "date": "06/2021"
+    },
+    {
+      "title": "Agile, Project Management, Scrumworks, Scrum Training",
+      "date": "11/2019"
+    },
+    {
+      "title": "Certified Teacher Certificate (GogoKid)",
+      "date": "01/2019"
+    },
+    {
+      "title": "120-Hour TESOL Certificate",
+      "organization": "International Open Academy, UK",
+      "date": "10/2018"
+    },
+    {
+      "title": "Career Readiness Certificate (Gold)",
+      "organization": "State of North Carolina WorkKeys Examination",
+      "date": "01/2015"
+    },
+    {
+      "title": "Integrated Risk Management into the Quality System",
+      "organization": "AAMI",
+      "date": "11/2006"
+    },
+    {
+      "title": "Introduction to Microsoft Visual C#.NET",
+      "organization": "Microsoft Certified Training Center",
+      "date": "05/2005"
+    }
+  ],
+  "activities": [
+    "Basketball",
+    "Soccer",
+    "Golf",
+    "Tennis",
+    "Music composition",
+    "Vice Chairman – IEEE Chapter",
+    "Coding Contest Judge"
+  ]
+}
