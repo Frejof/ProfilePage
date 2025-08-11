@@ -1,13 +1,15 @@
 ================================================================================
                                 Charles Chery
 ================================================================================
-📞 919-526-2544       📍 5409 Bradburn Dr, McLeansville, NC 27301       ✉️ charlesch@protonmail.com
+📞 919-526-2544       📍 5409 Bradburn Dr, McLeansville, NC 27301 
+✉️ charlesch@protonmail.com
 
 https://github.com/Frejof/ProfilePage/blob/main/src/ResumeCC.txt
 --------------------------------------------------------------------------------
 PROFESSIONAL SUMMARY
 --------------------------------------------------------------------------------
-Seasoned and versatile Software Test Engineer and Test Lead with over a decade of experience ensuring high-quality 
+Seasoned and versatile Software Test Engineer and Test Lead with over a decade of 
+experience ensuring high-quality 
 product delivery across the telecommunications, medical device, and HR industries. 
 Expert in test planning, automation, QA leadership, and process improvement across 
 embedded systems, web platforms, and mobile applications.
@@ -48,7 +50,8 @@ Test Lead / Design Engineer – Hillrom | Medical Device Industry (4 Years)
 Test Lead – AHCS | Human Resource Applications (2 Years)
 • Led 3–5 QA engineers on multi-million-dollar projects.
 • Introduced efficient testing tools leading to 6-months of zero major issues.
-• Ensured smooth rollout of Business Intelligence ( BI) apps with high performance under load.
+• Ensured smooth rollout of Business Intelligence ( BI) apps with high 
+performance under load.
 
 Software Tester – AT&T | Telecommunications Industry (5 Years)
 • Maintained software and hardware system operations across products.
